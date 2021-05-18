@@ -77,3 +77,6 @@ This was a good exercise to learn Golang (and refresh my Docker skills).
 Thx https://github.com/sabhiram/go-wol for the WOL code, sorry that I stole it from you, because I got no clue how I can inject it into my program. :-(
 
 **If you have any good ideas, I'm open for pull requests.**
+
+## Credits
+Full credits go to [daBONDi](https://github.com/daBONDi/go-rest-wol)
